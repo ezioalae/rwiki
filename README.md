@@ -4,14 +4,8 @@
 
   **A blazing fast TUI Wikipedia viewer and explorer.**
 
-  <a href="https://github.com/ezioalae/rwiki/issues">
-    <img src="https://img.shields.io/github/issues/ezioalae/rwiki?style=flat-square&color=white&labelColor=white&logo=github&logoColor=black" alt="Issues">
-  </a>
   <a href="https://github.com/ezioalae/rwiki/stargazers">
     <img src="https://img.shields.io/github/stars/ezioalae/rwiki?style=flat-square&color=white&labelColor=white&logo=star&logoColor=black" alt="Stars">
-  </a>
-  <a href="https://github.com/ezioalae/rwiki/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ezioalae/rwiki?style=flat-square&color=white&labelColor=white&logo=open-source-initiative&logoColor=black" alt="License">
   </a>
   <a href="https://helix-editor.com/">
     <img src="https://img.shields.io/badge/Made%20with-Helix-white?style=flat-square&color=white&labelColor=white&logo=helix&logoColor=black" alt="Made with Helix">
